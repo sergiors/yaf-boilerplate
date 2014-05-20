@@ -1,0 +1,19 @@
+{
+  "name": "yafboilerplate",
+  "version": "0.1.0",
+  "authors": [
+    "Sérgio Rafael Siqueira <sergiorsiqueira9@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.1.1"
+  }
+}

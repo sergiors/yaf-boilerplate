@@ -1,0 +1,15 @@
+{
+    "name": "sergiors/yafboilerplate",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sérgio Rafael Siqueira",
+            "email": "sergiorsiqueira9@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "~5.3",
+        "suin/php-yaf-twig": ">=1.0",
+        "doctrine/orm": "~2.4"
+    }
+}
